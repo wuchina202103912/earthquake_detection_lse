@@ -1,4 +1,4 @@
-# lse_challenge
+# File information
 
 .gitattributes for storing git attribute.
 
